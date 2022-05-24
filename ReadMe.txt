@@ -1,0 +1,1 @@
+Veritabanı bağlantısı appsetting.json dadır
